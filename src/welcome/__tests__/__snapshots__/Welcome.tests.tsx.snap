@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Welcome component tests should render properly 1`] = `
+<h1
+  className="welcome"
+>
+  Hello Pippo! 
+</h1>
+`;
